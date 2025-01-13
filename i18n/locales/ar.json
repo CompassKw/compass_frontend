@@ -1,0 +1,402 @@
+{
+  "home": {
+    "seo": {
+      "title": "الصفحة الرئيسية",
+      "description": "هذا هو وصف الصفحة الرئيسية"
+    }
+  },
+  "nav": {
+    "home": "الرئيسية",
+    "group_trips": "رحلات جماعية",
+    "private_trips": "رحلات خاصة",
+    "cart": "السلة",
+    "terms": "الشروط والأحكام",
+    "blog": "المدونة",
+    "about_us": "من نحن",
+    "store": "المتجر"
+  },
+  "footer": {
+    "customer_service": "خدمة العملاء",
+    "live_support": "تحتاج مساعدة مباشرة؟",
+    "download_app": "حمل تطبيقنا",
+    "download_on": "حمل من",
+    "get_it_on": "احصل عليه من",
+    "apple_store": "متجر آبل",
+    "google_play": "جوجل بلاي",
+    "follow_social": "تابعنا على وسائل التواصل الاجتماعي",
+    "get_updates": "احصل على التحديثات والمزيد",
+    "your_email": "بريدك الإلكتروني",
+    "subscribe": "اشترك",
+    "company": "الشركة",
+    "articles": "المقالات",
+    "support": "الدعم"
+  },
+  "login": "تسجيل الدخول / التسجيل",
+  "logout": "تسجيل الخروج",
+  "arabic": "العربية",
+  "english": "الإنجليزية",
+  "about": {
+    "seo": {
+      "title": "صفحة من نحن",
+      "description": "تعرف أكثر على كومباس الكويت وخدماتنا"
+    },
+    "hero": {
+      "title": "تبحث عن مغامرة مثيرة؟",
+      "subtitle": "رفيق رحلتك الموثوق"
+    },
+    "why": {
+      "title": "لماذا تختارنا",
+      "subtitle": "هذه الوجهات الشهيرة لديها الكثير لتقدمه",
+      "price": {
+        "title": "ضمان أفضل سعر",
+        "description": "هناك حقيقة مثبتة منذ زمن طويل وهي أن المحتوى المقروء"
+      },
+      "booking": {
+        "title": "حجز سهل وسريع",
+        "description": "هناك حقيقة مثبتة منذ زمن طويل وهي أن المحتوى المقروء"
+      },
+      "support": {
+        "title": "خدمة العملاء 24/7",
+        "description": "هناك حقيقة مثبتة منذ زمن طويل وهي أن المحتو المقروء"
+      }
+    },
+    "contact": {
+      "title": "اتصل بنا",
+      "email": "البريد الإلكتروني",
+      "collaboration": "التعاون",
+      "phone": "الهاتف"
+    },
+    "company": {
+      "title": "عن كومباس الكويت"
+    }
+  },
+  "blog": {
+    "seo": {
+      "title": "المدونة",
+      "description": "اقرأ أحدث مقالات وقصص السفر لدينا",
+      "article_title": "{title} - مدونة كومباس الكويت",
+      "article_description": "اقرأ المزيد عن {title} في مدونة كومباس الكويت"
+    },
+    "title": "مقالات السفر",
+    "subtitle": "لوريم ايبسوم هو نص شكلي يستخدم في تصاميم المواقع",
+    "pagination": {
+      "prev": "الصفحة السابقة",
+      "next": "الصفحة التالية"
+    },
+    "read_more": "اقرأ المزيد"
+  },
+  "booking": {
+    "seo": {
+      "title": "احجز رحلتك",
+      "description": "احجز مغامرتك القادمة مع كومباس الكويت"
+    },
+    "title": "احجز رحلتك",
+    "trip_details": "تفاصيل الرحلة",
+    "form": {
+      "coupon": "هل لديك رمز خصم؟",
+      "coupon_placeholder": "أدخل رمز الخصم",
+      "submit_coupon": "تطبيق الرمز",
+      "error_title": "خطأ",
+      "error_description": "يرجى إكمال جميع الحقول",
+      "processing_title": "حجز",
+      "processing_description": "يرجى الإنتظار أثناء معالجة حجزك",
+      "title": "دعنا نعرف من أنت",
+      "number_of_travelers": "عدد السياح",
+      "traveler": "السياح",
+      "name": "الاسم الكامل",
+      "name_placeholder": "أدخل اسمك الكامل",
+      "email": "البريد الإلكتروني",
+      "email_placeholder": "أدخل بريدك الإلكتروني",
+      "phone": "رقم الهاتف",
+      "phone_placeholder": "أدخل رقم هاتفك",
+      "nationality": "الجنسية",
+      "nationality_placeholder": "أدخل الجنسية",
+      "country_of_residence": "البلد المنصب",
+      "country_of_residence_placeholder": "أدخل البلد المنصب",
+      "date_of_birth": "تاريخ الميلاد",
+      "gender": "الجنس",
+      "gender_placeholder": "ذكر أو أنثي",
+      "message": "الرسالة",
+      "message_placeholder": "اكتب رسالتك هنا...",
+      "submit": "تأكيد الحجز",
+      "male": "ذكر",
+      "female": "أنثى",
+      "quantity_placeholder": "أدخل الكمية"
+    },
+    "trip": {
+      "booking_details": "تفاصيل حجزك",
+      "price_summary": "ملخص السعر",
+      "trip_fees": "رسوم الرحلة لجميع السياح",
+      "addons": "الإضافات",
+      "total": "المجموع",
+      "title": "عنوان الرحلة",
+      "start_date": "تاريخ البدء",
+      "dates": "تواريخ الرحلة",
+      "duration": "المدة",
+      "days": "أيام",
+      "price": "السعر",
+      "single_room": "غرفة سيد",
+      "sharing_room": "غرفة مشتركة",
+      "coupon": "رمز خصم",
+      "coupon_placeholder": "أدخل رمز الخصم"
+    }
+  },
+  "cart": {
+    "seo": {
+      "title": "سلة التسوق",
+      "description": "عرض وإدارة منتجات سلة التسوق الخاصة بك"
+    },
+    "title": "السلة",
+    "checkout": "الدفع",
+    "currency": "د.ك",
+    "empty": "لا توجد منتجات في السلة",
+    "decrease_quantity": "تقليل الكمية",
+    "increase_quantity": "زيادة الكمية",
+    "remove_product": "إزالة المنتج",
+    "checkout_title": "الدفع",
+    "total_amount": "المبلغ الإجمالي",
+    "delivery_days": "أيام التوصيل",
+    "days": "يوم",
+    "country": "الدولة",
+    "country_placeholder": "أدخل الدولة",
+    "city": "المدينة",
+    "city_placeholder": "أدخل المدينة",
+    "street": "الشارع",
+    "street_placeholder": "أدخل الشارع",
+    "building": "المبنى",
+    "building_placeholder": "أدخل رقم المبنى",
+    "cancel": "إلغاء",
+    "confirm_checkout": "تأكيد الدفع"
+  },
+  "group_trips": {
+    "seo": {
+      "title": "رحلات جماعية",
+      "description": "إكتشف رحلاتنا الجماعية المثيرة واحجز اليوم"
+    },
+    "title": "رحلات جماعية"
+  },
+  "login_page": {
+    "seo": {
+      "title": "صفحة تسجيل الدخول",
+      "description": "تسجيل الدخول إلى حسابك"
+    },
+    "dont_have_account": "ليس لديك حساب بعد؟",
+    "welcome_back": "مرحبا بعودتك",
+    "sign_up_for_free": "انشاء حساب مجاني",
+    "login": "تسجيل الدخول",
+    "forget_your_password": "هل نسيت كلمة المرور؟",
+    "email": "البريد الإلكتروني",
+    "password": "كلمة المرور"
+  },
+  "private_trips": {
+    "seo": {
+      "title": "رحلات خاصة",
+      "description": "إكتشف رحلاتنا الخاصة المثيرة واحجز اليوم"
+    },
+    "title": "رحلات خاصة"
+  },
+  "register_page": {
+    "seo": {
+      "title": "صفحة تسجيل الدخول",
+      "description": "انشاء حساب جديد مع كومباس الكويت"
+    },
+    "sign_up_for_a_new_account": "ليس لديك حساب بعد؟",
+    "sign_in": "تسجيل الدخول",
+    "full_name": "الاسم الكامل*",
+    "email": "البريد الإلكتروني*",
+    "country_code": "رمز البلد*",
+    "mobile_number": "رقم الهاتف*",
+    "date_of_birth": "تاريخ الميلاد*",
+    "nationality": "الجنسية*",
+    "country_of_residence": "البلد المنصب*",
+    "area_city": "المنطقة/المدينة*",
+    "password": "كلمة المرور*",
+    "confirm_password": "تأكيد كلمة المرور*",
+    "password_does_not_match": "كلمة المرور غير متطابقة",
+    "please_fill_all_fields": "يرجى إكمال جميع الحقول",
+    "register": "تسجيل",
+    "do_have_an_account": "لديك حساب بالفعل؟",
+    "upload_profile_picture": "رفع صورة الملف الشخصي",
+    "optional": "اختياري",
+    "upload": "رفع"
+  },
+  "rest_page": {
+    "seo": {
+      "title": "صفحة استرجاع كلمة المرور",
+      "description": "إسترجاع كلمة المرور"
+    },
+    "enter_email_used_in_registration": "أدخل البريد الإلكتروني المستخدم في التسجيل",
+    "get_otp": "احصل على رمز التحقق",
+    "please_fill_all_fields": "يرجى إكمال جميع الحقول",
+    "enter_otp_code_sent_to_your_email": "أدخل رمز التحقق المرسل إلى بريدك الإلكتروني",
+    "verify_otp": "التحقق من رمز التحقق",
+    "please_enter_a_valid_otp": "يرجى إدخال رمز التحقق الصالح",
+    "otp_does_not_match": "رمز التحقق غير متطابق",
+    "please_fill_all_fields_to_reset_password": "يرجى إكمال جميع الحقول لإعادة تعيين كلمة المرور",
+    "reset_password": "إعادة تعيين كلمة المرور",
+    "new_password": "كلمة المرور الجديدة",
+    "confirm_new_password": "تأكيد كلمة المرور الجديدة",
+    "password_does_not_match": "كلمة المرور غير متطابقة",
+    "password_updated_successfully": "تم تحديث كلمة المرور بنجاح",
+    "change_password": "تغديل كلمة المرور"
+  },
+  "rules_page": {
+    "seo": {
+      "title": "صفحة الشروط والأحكام",
+      "description": "الشروط والأحكام"
+    },
+    "best_price_guarantee": "ضمان أفضل سعر",
+    "your_agreement": "اتفاقيتك",
+    "cookie_policy": "سياسة الكوكيز",
+    "terms_and_conditions": "الشروط والأحكام",
+    "privacy_policy": "سياسة الخصوصية",
+    "general_terms_of_use": "الشروط والأحكام العامة"
+  },
+  "search_page": {
+    "seo": {
+      "title": "البحث",
+      "description": "ابحث عن رحلتك المطلوبة"
+    },
+    "no_results_found": "لا يوجد نتائج"
+  },
+  "store_page": {
+    "seo": {
+      "title": "متجر كومباس الكويت",
+      "description": "متجر كومباس الكويت"
+    },
+    "the_compass_store": "متجر كومباس الكويت",
+    "price": "السعر",
+    "option": "خيار",
+    "days": "أيام",
+    "delivery_time": "وقت التوصيل",
+    "delivery_cost": "تكلفة التوصيل",
+    "add_to_cart": "إضافة للسلة",
+    "overview": "ملخص",
+    "compass_merchandise": "منتجات كومباس"
+  },
+  "payment_page": {
+    "seo": {
+      "title": "صفحة الدفع",
+      "description": "صفحة الدفع"
+    },
+    "payment_success_message": "تم الدفع بنجاح",
+    "payment_failed_message": "فشل الدفع",
+    "payment_failed": "فشل الدفع"
+  },
+  "header_navigate": {
+    "home": "الرئيسية",
+    "private_trips": "رحلات خاصة",
+    "group_trips": "رحلات جماعية",
+    "store": "متجر"
+  },
+  "tour_card": {
+    "private": "خاصة",
+    "days": "أيام",
+    "kd_person": "د.ك/شخص",
+    "trip_start": "تاريخ البدء",
+    "trip_end": "تاريخ الانتهاء",
+    "the_price_includes": "تشمل السعر",
+    "the_price_does_not_include": "لا يشمل السعر",
+    "andventures_and_site_that_will_be_covered": "المغامرات والمواقع التي سيتم زيارتها",
+    "accommodation_type": "نوع الإقامة",
+    "level_of_difficulty": "مستوى الصعوبة",
+    "theme": "الموضوع",
+    "group_tours_by_month": "رحلات جماعية بالشهر",
+    "group_tours_by_continent": "رحلات جماعية بالقارة",
+    "starting_from": "بدء من",
+    "duration": "المدة",
+    "book_now": "احجز الآن",
+    "single_price": "سعر الفرد",
+    "sharing_price": "سعر المشترك",
+    "overview": "ملخص",
+    "itinerary": "الجدول الزمني",
+    "day": "يوم",
+    "date": "تاريخ",
+    "to": "إلى"
+  },
+  "bl_tours_section": {
+    "best_local_tours": "أفضل الرحلات المحلية"
+  },
+  "detail_trip": {
+    "seo": {
+      "title": "تفاصيل الرحلة",
+      "description": "تفاصيل الرحلة"
+    },
+    "overview": "ملخص",
+    "itinerary": "الجدول الزمني",
+    "day": "يوم",
+    "the_price_includes": "تشمل السعر",
+    "the_price_does_not_include": "لا يشمل السعر",
+    "andventures_and_site_that_will_be_covered": "المغامرات والمواقع التي سيتم زيارتها"
+  },
+  "blog_section": {
+    "get_inspiration_for_your_next_trip": "احصل على الإلهام لرحلتك القادمة",
+    "check_our_blog_for_the_latest_articles_about_tourism": "تحقق من مدونتنا لأحدث المقالات حول السياحة",
+    "view_all": "عرض الكل"
+  },
+  "download_app": {
+    "download_our_app": "تحميل تطبيقنا",
+    "available_on_ios_and_android": "متوفر على أيفون وأندرويد",
+    "you_can_book_and_manage_your_booking_easily_from_the_app": "يمكنك حجز وإدارة حجوزاتك بسهولة من التطبيق",
+    "download_for_ios": "تحميل لأيفون",
+    "download_for_android": "تحميل لأندرويد"
+  },
+  "gt_continent_section": {
+    "group_tours_by_continent": "رحلات جماعية بالقارة",
+    "africa": "أفريقيا",
+    "asia": "آسيا",
+    "australia": "أوشيرا",
+    "north_america": "أمريكا الشمالية",
+    "south_america": "أمريكا الجنوبية",
+    "europe": "أوروبا",
+    "destinations": "الوجهات"
+  },
+  "gt_month_section": {
+    "group_tours_by_month": "رحلات جماعية بالشهر",
+    "january": "يناير",
+    "february": "فبراير",
+    "march": "مارس",
+    "april": "أبريل",
+    "may": "مايو",
+    "june": "يونيو",
+    "july": "يوليو",
+    "august": "أغسطس",
+    "september": "سبتمبر",
+    "october": "أكتوبر",
+    "november": "نوفمبر",
+    "december": "ديسمبر",
+    "destinations": "الوجهات"
+  },
+  "gt_slider_section": {
+    "most_trending_group_tours": "أكثر الرحلات الجماعية المثيرة",
+    "previous_slide": "الشريحة السابقة",
+    "next_slide": "الشريحة التالية"
+  },
+  "hero_section": {
+    "welcome": "مرحبا",
+    "best_travel": "أفضل السفر",
+    "experience": "التجربة",
+    "experience_the_various_exciting_tours": "استكشف الرحلات المثيرة المختلفة واستمتع بالمغامرات المثيرة",
+    "search_for_destinations_months_continent": "ابحث عن الوجهات / الشهور / القارات",
+    "search": "ابحث",
+    "ie_asia": "ie : آسيا"
+  },
+  "our_achievements_section": {
+    "destinations": "الوجهات",
+    "countries": "البلدان",
+    "continents": "القارات",
+    "happy_customers": "العملاء السعداء"
+  },
+  "our_brand_ambassadors_section": {
+    "our_brand_ambassadors": "أبرز الممثلين العلامات"
+  },
+  "our_companies_section": {
+    "our_companies": "شركاتنا"
+  },
+  "our_partners_section": {
+    "our_partners": "شركاؤنا"
+  },
+  "reviews_testimonials_section": {
+    "travelers_reviews_and_testimonials": "آراء السياح والشهادات"
+  }
+}

@@ -1,0 +1,403 @@
+{
+  "home": {
+    "seo": {
+      "title": "Main Page",
+      "description": "this is the main page description"
+    }
+  },
+  "nav": {
+    "home": "Home",
+    "group_trips": "Group Trips",
+    "private_trips": "Private Trips",
+    "cart": "Cart",
+    "terms": "Terms and Conditions",
+    "blog": "Blog",
+    "about_us": "About Us",
+    "store": "Store"
+  },
+  "footer": {
+    "customer_service": "Customer Service",
+    "live_support": "Need live support?",
+    "download_app": "Download Our App",
+    "download_on": "Download on the",
+    "get_it_on": "Get it on",
+    "apple_store": "Apple Store",
+    "google_play": "Google Play",
+    "follow_social": "Follow us on social media",
+    "get_updates": "Get Updates & More",
+    "your_email": "Your Email",
+    "subscribe": "Subscribe",
+    "company": "Company",
+    "articles": "Articles",
+    "support": "Support"
+  },
+  "login": "Login / Register",
+  "logout": "Logout",
+  "arabic": "Arabic",
+  "english": "English",
+  "about": {
+    "seo": {
+      "title": "About Us Page",
+      "description": "Learn more about Compass Kuwait and our services"
+    },
+    "hero": {
+      "title": "Looking for An Exciting Adventure?",
+      "subtitle": "Your trusted trip companion"
+    },
+    "why": {
+      "title": "Why Choose Us",
+      "subtitle": "These popular destinations have a lot to offer",
+      "price": {
+        "title": "Best Price Guarantee",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit."
+      },
+      "booking": {
+        "title": "Easy & Quick Booking",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit."
+      },
+      "support": {
+        "title": "Customer Care 24/7",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit."
+      }
+    },
+    "contact": {
+      "title": "Contact us",
+      "email": "Email",
+      "collaboration": "Collaboration",
+      "phone": "Phone"
+    },
+    "company": {
+      "title": "About Compass Kuwait"
+    }
+  },
+  "blog": {
+    "seo": {
+      "title": "Blog Page",
+      "description": "Read our latest travel articles and stories",
+      "article_title": "{title} - Compass Kuwait Blog",
+      "article_description": "Read more about {title} on Compass Kuwait Blog"
+    },
+    "title": "Travel Articles",
+    "subtitle": "Lorem ipsum is placeholder text commonly used in site.",
+    "pagination": {
+      "prev": "Previous page",
+      "next": "Next page"
+    },
+    "read_more": "Read more"
+  },
+  "booking": {
+    "seo": {
+      "title": "Book Your Trip",
+      "description": "Book your next adventure with Compass Kuwait"
+    },
+    "title": "Book Your Trip",
+    "trip_details": "Trip Details",
+    "form": {
+      "error_title": "Error",
+      "error_description": "Please fill all the fields",
+      "processing_title": "Booking",
+      "processing_description": "Please wait while we are processing your booking",
+      "coupon": "Do you have a Coupon code?",
+      "coupon_placeholder": "Enter your coupon code",
+      "submit_coupon": "Apply Coupon",
+      "title": "Let us know who you are",
+      "number_of_travelers": "Number Of Travelers",
+      "traveler": "Traveler",
+      "name": "Full Name",
+      "name_placeholder": "Enter your full name",
+      "email": "Email Address",
+      "email_placeholder": "Enter your email address",
+      "phone": "Phone Number",
+      "phone_placeholder": "Enter your phone number",
+      "nationality": "Nationality",
+      "nationality_placeholder": "Enter your nationality",
+      "country_of_residence": "Country of Residence",
+      "country_of_residence_placeholder": "Enter your country of residence",
+      "date_of_birth": "Date of Birth",
+      "gender": "Gender",
+      "gender_placeholder": "Male or Female",
+      "message": "Message",
+      "message_placeholder": "Write your message here...",
+      "submit": "Submit Booking",
+      "male": "Male",
+      "female": "Female",
+      "quantity_placeholder": "Enter quantity"
+    },
+    "trip": {
+      "booking_details": "Your booking details",
+      "price_summary": "Your price summary",
+      "trip_fees": "Trip Fees for all travelers",
+      "addons": "Addons",
+      "total": "Total",
+      "start_date": "Date of Start",
+      "title": "Trip Title",
+      "dates": "Trip Dates",
+      "duration": "Duration",
+      "days": "days",
+      "price": "Price",
+      "single_room": "Single Room",
+      "sharing_room": "Sharing Room",
+      "coupon": "Coupon",
+      "coupon_placeholder": "Enter your coupon code"
+    }
+  },
+  "cart": {
+    "seo": {
+      "title": "Shopping Cart",
+      "description": "View and manage your shopping cart items"
+    },
+    "title": "Cart",
+    "checkout": "Checkout",
+    "currency": "KD",
+    "empty": "No Products in Cart",
+    "decrease_quantity": "Decrease quantity",
+    "increase_quantity": "Increase quantity",
+    "remove_product": "Remove product",
+    "checkout_title": "Checkout",
+    "total_amount": "Total Amount",
+    "delivery_days": "Delivery Days",
+    "days": "Days",
+    "country": "Country",
+    "country_placeholder": "Enter your country",
+    "city": "City",
+    "city_placeholder": "Enter your city",
+    "street": "Street",
+    "street_placeholder": "Enter your street",
+    "building": "Building",
+    "building_placeholder": "Enter your building",
+    "cancel": "Cancel",
+    "confirm_checkout": "Checkout"
+  },
+  "group_trips": {
+    "seo": {
+      "title": "Group Trips Page",
+      "description": "Discover our exciting group trips and book today"
+    },
+    "title": "Group Trips"
+  },
+  "login_page": {
+    "seo": {
+      "title": "Login Page",
+      "description": "Login to your account"
+    },
+    "dont_have_account": "Don't have an account yet?",
+    "welcome_back": "Welcome back",
+    "sign_up_for_free": "Sign up for free",
+    "login": "Login",
+    "forget_your_password": "Forget Your Password?",
+    "email": "Email",
+    "password": "Password"
+  },
+  "private_trips": {
+    "seo": {
+      "title": "Private Trips Page",
+      "description": "Discover our exciting private trips and book today"
+    },
+    "title": "Private Trips"
+  },
+  "register_page": {
+    "seo": {
+      "title": "Register Page",
+      "description": "Create a new account with Compass Kuwait"
+    },
+    "sign_up_for_a_new_account": "Do have an account?",
+    "sign_in": "Sign in",
+    "full_name": "Full Name*",
+    "email": "Email*",
+    "country_code": "Country Code*",
+    "mobile_number": "Mobile Number*",
+    "date_of_birth": "Date of Birth*",
+    "nationality": "Nationality*",
+    "country_of_residence": "Country of Residence*",
+    "area_city": "Area/City*",
+    "password": "Password*",
+    "confirm_password": "Confirm Password*",
+    "password_does_not_match": "Password does not match",
+    "please_fill_all_fields": "Please fill all fields",
+    "register": "Register",
+    "do_have_an_account": "Do have an account?",
+    "upload_profile_picture": "Upload Profile Picture",
+    "optional": "Optional",
+    "upload": "Upload"
+  },
+  "rest_page": {
+    "seo": {
+      "title": "Rest Password Page",
+      "description": "Reset your password"
+    },
+    "enter_email_used_in_registration": "Enter Email used in registration",
+    "get_otp": "Get OTP",
+    "please_fill_all_fields": "Please fill all fields",
+    "enter_otp_code_sent_to_your_email": "Enter OTP code sent to your email",
+    "verify_otp": "Verify OTP",
+    "please_enter_a_valid_otp": "Please enter a valid OTP",
+    "otp_does_not_match": "OTP does not match",
+    "please_fill_all_fields_to_reset_password": "Please fill all fields to reset password",
+    "reset_password": "Reset Password",
+    "new_password": "New Password",
+    "confirm_new_password": "Confirm New Password",
+    "password_does_not_match": "Password does not match",
+    "password_updated_successfully": "Password updated successfully",
+    "change_password": "Change Password"
+  },
+  "rules_page": {
+    "seo": {
+      "title": "Rules Page",
+      "description": "Rules and Conditions"
+    },
+    "best_price_guarantee": "Best Price Guarantee",
+    "your_agreement": "Your Agreement",
+    "cookie_policy": "Cookie Policy",
+    "terms_and_conditions": "Terms And Conditions",
+    "privacy_policy": "Privacy Policy",
+    "general_terms_of_use": "General Terms of Use"
+  },
+  "search_page": {
+    "seo": {
+      "title": "Search Page",
+      "description": "Search for your desired trip"
+    },
+    "no_results_found": "No Results Found"
+  },
+  "store_page": {
+    "seo": {
+      "title": "Store Page",
+      "description": "Store Page"
+    },
+    "the_compass_store": "The Compass Store",
+    "price": "Price",
+    "option": "Option",
+    "days": "Days",
+    "delivery_time": "Delivery Time",
+    "delivery_cost": "Delivery Cost",
+    "add_to_cart": "Add to Cart",
+    "overview": "Overview",
+    "compass_merchandise": "Compass Merchandise"
+  },
+  "payment_page": {
+    "seo": {
+      "title": "Payment Page",
+      "description": "Payment Page"
+    },
+    "payment_success_message": "Your payment has been successfully processed.",
+    "payment_failed_message": "Your payment has been failed.",
+    "payment_failed": "Payment Failed"
+  },
+  "header_navigate": {
+    "home": "Home",
+    "private_trips": "Private Trips",
+    "group_trips": "Group Trips",
+    "store": "Store"
+  },
+  "tour_card": {
+    "private": "Private",
+    "days": "Days",
+    "kd_person": "KD/Person",
+    "trip_start": "Trip Start",
+    "trip_end": "Trip End",
+    "the_price_includes": "The Price Includes",
+    "the_price_does_not_include": "The Price Does Not Include",
+    "andventures_and_site_that_will_be_covered": "Adventures and Site that will be covered",
+    "accommodation_type": "Accommodation Type",
+    "level_of_difficulty": "Level of Difficulty",
+    "theme": "Theme",
+    "starting_from": "Starting From",
+    "group_tours_by_month": "Group Tours by Month",
+    "group_tours_by_continent": "Group Tours by Continent",
+    "duration": "Duration",
+    "book_now": "Book Now",
+    "single_price": "Single Price",
+    "sharing_price": "Sharing Price",
+    "overview": "Overview",
+    "itinerary": "Itinerary",
+    "day": "Day",
+    "date": "Date",
+    "to": "To"
+  },
+  "blog_section": {
+    "get_inspiration_for_your_next_trip": "Get inspiration for your next trip",
+    "check_our_blog_for_the_latest_articles_about_tourism": "Check Our Blog for the latest Articles about tourism",
+    "view_all": "View All"
+  },
+  "bl_tours_section": {
+    "best_local_tours": "Best Local Tours"
+  },
+  "detail_trip": {
+    "seo": {
+      "title": "Detail Trip Page",
+      "description": "Detail Trip Page"
+    },
+    "overview": "Overview",
+    "itinerary": "Itinerary",
+    "day": "Day",
+    "the_price_includes": "The Price Includes",
+    "the_price_does_not_include": "The Price Does Not Include",
+    "andventures_and_site_that_will_be_covered": "Adventures and Site that will be covered",
+    "book_now": "Book Now"
+  },
+  "download_app": {
+    "download_our_app": "Download Our App",
+    "available_on_ios_and_android": "Available on IOS & Android",
+    "you_can_book_and_manage_your_booking_easily_from_the_app": "You can Book And manage your booking easily from the app",
+    "download_for_ios": "Download For IOS",
+    "download_for_android": "Download For Android"
+  },
+  "gt_continent_section": {
+    "group_tours_by_continent": "Group Tours by Continent",
+    "africa": "Africa",
+    "asia": "Asia",
+    "australia": "Australia",
+    "north_america": "North America",
+    "south_america": "South America",
+    "europe": "Europe",
+    "destinations": "Destinations"
+  },
+  "gt_month_section": {
+    "group_tours_by_month": "Group Tours by Month",
+    "january": "January",
+    "february": "February",
+    "destinations": "Destinations",
+    "march": "March",
+    "april": "April",
+    "may": "May",
+    "june": "June",
+    "july": "July",
+    "august": "August",
+    "september": "September",
+    "october": "October",
+    "november": "November",
+    "december": "December"
+  },
+  "gt_slider_section": {
+    "most_trending_group_tours": "Most Trending Group Tours",
+    "previous_slide": "Previous slide",
+    "next_slide": "Next slide"
+  },
+  "hero_section": {
+    "welcome": "Welcome",
+    "best_travel": "Best Travel",
+    "experience": "Experience",
+    "experience_the_various_exciting_tours": "Experience the various exciting tours and experience thrilling adventures",
+    "search_for_destinations_months_continent": "Search for Destinations / Months / Continent",
+    "search": "Search",
+    "ie_asia": "ie : Asia"
+  },
+  "our_achievements_section": {
+    "destinations": "Destinations",
+    "countries": "Countries",
+    "continents": "Continents",
+    "happy_customers": "Happy customers"
+  },
+  "our_brand_ambassadors_section": {
+    "our_brand_ambassadors": "Our Brand Ambassadors"
+  },
+  "our_companies_section": {
+    "our_companies": "Our Companies"
+  },
+  "our_partners_section": {
+    "our_partners": "Our Partners"
+  },
+  "reviews_testimonials_section": {
+    "travelers_reviews_and_testimonials": "Travelers Reviews and Testimonials"
+  }
+}
