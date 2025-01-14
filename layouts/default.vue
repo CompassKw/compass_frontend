@@ -26,7 +26,7 @@ useHead({
     {
       rel: "icon",
       type: "image/icon",
-      href: `${logo}`,
+      href: logo,
     },
     {
       rel: "preconnect",

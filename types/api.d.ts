@@ -8,6 +8,7 @@ declare interface Api {
     trip: Trip;
     brandAmbassadors: Ambassador[];
     brandAmbassador: Ambassador;
+    tourOperator:Ambassador[];
     posts: Post[];
     post: Post;
     stores: Product[];
