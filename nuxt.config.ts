@@ -62,24 +62,24 @@ export default defineNuxtConfig({
   experimental: {
     payloadExtraction: false,
   },
-  // nitro: {
-  //   prerender: {
-  //     failOnError: false,
-  //     crawlLinks: true,
-  //   },
-  // },
-  // routeRules: {
-  //   "/blog/**": { prerender: false },
-  //   "/group-trips/**": { prerender: false },
-  //   "/private-trips/**": { prerender: false },
-  //   "/rules/**": { prerender: false },
-  //   "/rest/**": { prerender: false },
-  //   "/login/**": { prerender: false },
-  //   "/store/**": { prerender: false },
-  //   "/cart/**": { prerender: false },
-  //   "/booking/**": { prerender: false },
-  //   "/search-page/**": { prerender: false },
-  //   "/payment.vue": { prerender: false },
-  //   "/index.vue": { prerender: false },
-  // },
+  nitro: {
+    prerender: {
+      failOnError: false,
+      crawlLinks: true,
+    },
+  },
+  routeRules: {
+    "/blog/**": { prerender: false },
+    "/group-trips/**": { prerender: false },
+    "/private-trips/**": { prerender: false },
+    "/rules/**": { prerender: false },
+    "/rest/**": { prerender: false },
+    "/login/**": { prerender: false },
+    "/store/**": { prerender: false },
+    "/cart/**": { prerender: false },
+    "/booking/**": { prerender: false },
+    "/search-page/**": { prerender: false },
+    "/payment.vue": { prerender: false },
+    "/index.vue": { prerender: false },
+  },
 });
